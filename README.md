@@ -13,13 +13,7 @@
 
 <h3>💻 Programming Languages & Tools</h3>
 
-- Programming languages:
-
-  - HTML
-
-  - CSS
-    
-  - JavaScript
+- Programming Languages:
   
   - SQL
 
@@ -28,7 +22,7 @@
 
 - Other Tools:
 
-  - Power-BI
+  - Microsoft Power BI
     
   - Microsoft Excel
     
@@ -48,6 +42,18 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://powerbi.microsoft.com/"src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="-365/excel
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="40">
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didrik147&" alt="didrik147" /></p>
