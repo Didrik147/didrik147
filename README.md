@@ -30,8 +30,11 @@ I work at Hafslund Celsio, turning data into clear insights with SQL, Python, an
 
 ## Outside work
 
-- 🎲 Video games & board games
-- 🥏 Disc golf
+- 🎲 Board Games
+- 🎮 Video Games
+- 🥏 Disc Golf
+- 🥾 Hiking
+- 🚴 Cycling
 - 📖 Books
 
 ## GitHub activity
