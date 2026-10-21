@@ -30,15 +30,10 @@ I work at Hafslund Celsio, turning data into clear insights with SQL, Python, an
 
 ## Outside work
 
-- 🎲 Board Games
-- 🎮 Video Games
 - 🥏 Disc Golf
-- 🥾 Hiking
 - 🚴 Cycling
-- 📖 Books
+- 📖 Reading
 
 ## GitHub activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=didrik147" alt="didrik147's GitHub streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=didrik147&mode=weekly)](https://git.io/streak-stats)
